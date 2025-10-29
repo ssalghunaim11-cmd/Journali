@@ -1,0 +1,1 @@
+Journali is a modern and minimal journaling app that helps users record their daily thoughts and reflections with ease. It features text and voice note support, bookmarks, and a clean dark-mode interface. Built with SwiftUI using the MVVM architecture, the app focuses on mindfulness, simplicity, and smooth user experience.
